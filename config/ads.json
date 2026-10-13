@@ -1,0 +1,7 @@
+{
+  "v": 1,
+  "adsOn": true,
+  "interstitial": { "on": true, "fromLevel": 11, "everyLevels": 2, "minGapSec": 240, "sessionGraceSec": 180, "firstSession": false, "maxPerSession": 3, "maxPerDay": 6 },
+  "hint": { "on": true, "fromLevel": 3 },
+  "doubleCoins": { "on": true, "fromLevel": 6 }
+}
