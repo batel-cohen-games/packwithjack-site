@@ -1,0 +1,7 @@
+{
+  "v": 1,
+  "on": true,
+  "countdown": true,
+  "start": "2026-10-20",
+  "order": ["pumpkin", "coffin", "cauldron", "house", "monster", "candy", "mummy"]
+}
